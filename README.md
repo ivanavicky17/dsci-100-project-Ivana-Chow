@@ -6,3 +6,4 @@ This repository is originally adapted from Grace Tompkins' repo [DSCI-100-Projec
 
 New changes made on GitHub 
 Finish tasks 1.3 - 3.1 
+Finish task 4.1 - 5.1 
